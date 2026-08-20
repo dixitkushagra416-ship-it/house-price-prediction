@@ -66,6 +66,7 @@ The model was evaluated using:
 This means that the model explains approximately 54% of the variation in house prices on the test data.
 
 The score provides a baseline that can be improved in future versions by using better feature selection, categorical encoding, and more advanced regression algorithms.
+![Model Results] (r2score.png)
 
 ## 🛠️Technologies Used
 
